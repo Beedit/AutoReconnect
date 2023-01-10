@@ -1,0 +1,8 @@
+{
+    "name": "AutoReconnect",
+    "creator": "beedit",
+    "description": "Auto reconnect to a server when you disconnect.",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "requires": []
+}
